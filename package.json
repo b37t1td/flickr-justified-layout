@@ -1,0 +1,23 @@
+{
+  "name": "flickr-justified-layout",
+  "version": "1.0.0",
+  "description": "Build of the flickr's justified-layout for sharing it as a global window.JLayout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/15lyfromsaturn/flickr-justified-layout.git"
+  },
+  "author": "Svetlana Linuxenko <linuxenko@yahoo.com> (http://www.linuxenko.pro)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/15lyfromsaturn/flickr-justified-layout/issues"
+  },
+  "homepage": "https://github.com/15lyfromsaturn/flickr-justified-layout#readme",
+  "dependencies": {
+    "justified-layout": "0.0.2",
+    "webpack": "^1.12.14"
+  }
+}
