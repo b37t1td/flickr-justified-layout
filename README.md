@@ -4,7 +4,8 @@ Build of the flickr's [justified-layout](https://github.com/flickr/justified-lay
 
 
 
-Check out the [demo](http://codepen.io/linuxenko/pen/NNXOJp)
+Check out the [demo](http://codepen.io/linuxenko/pen/NNXOJp).
+
 Real world [example](http://codepen.io/linuxenko/pen/xVpeoX)
 
 Use `dist/layout-justify.min.js` or CDN :
